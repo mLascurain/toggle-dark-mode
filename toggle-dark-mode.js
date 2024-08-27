@@ -36,10 +36,6 @@ template.innerHTML = `
       background-color: black;
     }
 
-    .no-animation {
-      animation: none !important;
-    }
-
     @keyframes toggleOn {
       0% {
         transform: translateX(0);
