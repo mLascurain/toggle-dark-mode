@@ -4,12 +4,13 @@
 
 
 
-<p> Clone the repository and add the following lines into your html file</p>
+<p> Clone the repository or download the file and add the following lines into your html file</p>
 
-![Copy this](https://github.com/user-attachments/assets/a77025c9-e9e6-4455-97dd-142b83a6048a)
+![WhatsApp Image 2024-08-27 at 20 37 17](https://github.com/user-attachments/assets/549d64d4-527f-4955-8f07-b0b71b8249a2)
+
 ```    
-    <toggle-dark-mode></toggle-dark-mode>
-    <script src="toggle-dark-node.js"></script>
+<toggle-dark-mode></toggle-dark-mode>
+<script src="toggle-dark-node.js"></script>
 ```
 
 
