@@ -15,4 +15,4 @@
 
 <p> After that create your styles for dark mode and light mode in the dark-mode/light-mode classes </p>
 
-<p> If you want to change the style of the button just comment all the styles in the js file </p>
+<p> If you want to change the style of the button just comment all the styles in the js file. </p>
